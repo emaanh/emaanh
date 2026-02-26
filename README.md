@@ -1,5 +1,5 @@
 <h1 align="center">I'm Emaan</h1>
-<h3 align="center">Top skills: ML & C++</h3>
+<h3 align="center">Top skills: ML infra & low-latency C++</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

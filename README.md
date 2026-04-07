@@ -8,8 +8,7 @@ I build high-throughput + low latency systems software. <br>
 Currently interested in ML & market infra
 
 ---
-### Top Languages & Rools
-
+### Top Languages
 ![C++](https://img.shields.io/badge/C++-0d6efd?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-0d6efd?style=flat-square&logo=c)
@@ -17,6 +16,7 @@ Currently interested in ML & market infra
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-b03060?style=flat-square)
 
+### Tools
 ![CUDA](https://img.shields.io/badge/CUDA-76b900?style=flat-square&logo=nvidia&logoColor=white)
 
 

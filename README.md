@@ -4,8 +4,8 @@
 
 ---
 
-> I build high-throughput + low latency systems software.
-> Currently interested in ML & market infra
+I build high-throughput + low latency systems software. <br>
+Currently interested in ML & market infra
 
 ---
 ### Top Languages

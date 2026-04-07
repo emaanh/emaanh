@@ -1,6 +1,6 @@
 <h1 align="center">I'm Emaan</h1>
-<h3 align="center">USC CE/CS</h3>
-<p align="center">Incoming @ Tesla · prev: SiFly, Tandem Launch</p>
+<h3 align="center">USC CE + CS</h3>
+<p align="center">Incoming SWE (Golang + Rust) @ Tesla</p>
 
 ---
 

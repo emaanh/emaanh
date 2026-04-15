@@ -21,7 +21,6 @@ Currently interested in ML & market infra
 
 ### currently
 
-- ML research @ USC Autonomous Networks Research Group
 - SWE @ USC Liquid Propulsion Lab
 - Ongoing: paged attention in llama.cpp
 

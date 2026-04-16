@@ -25,7 +25,7 @@ Currently interested in ML & market infra
 - Ongoing: paged attention in llama.cpp
 
 ### next
-- Tesla (Summer 2026) - low-latency control systems in Go + Rust
+- Tesla (Summer 2026) - Energy (Go + Rust)
 
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="center">I'm Emaan</h1>
+<h1 align="center">Emaan Heidari</h1>
 <h3 align="center">CE + CS @ USC</h3>
 <p align="center">Incoming SWE @ Tesla</p>
 

@@ -22,7 +22,7 @@ Currently interested in ML & market infra
 ### currently
 
 - SWE @ USC Liquid Propulsion Lab
-- Ongoing: paged attention in llama.cpp
+- Ongoing: [paged attention](https://github.com/emaanh/paged-attention) to be integrated into [llama.cpp]((https://github.com/emaanh/llama.cpp))
 
 ### next
 - Tesla (Summer 2026) - Energy (Go + Rust)

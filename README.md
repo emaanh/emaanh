@@ -1,11 +1,10 @@
 <h1 align="center">Emaan Heidari</h1>
 <h3 align="center">CE + CS @ USC</h3>
-<p align="center">Incoming SWE @ Tesla</p>
+<p align="center">SWE Intern @ Tesla</p>
 
 ---
 
 I build high-throughput + low-latency systems software. <br>
-Currently interested in ML & market infra
 
 ---
 ### Top Languages & Tools
@@ -16,16 +15,6 @@ Currently interested in ML & market infra
 ![CUDA](https://img.shields.io/badge/CUDA-76b900?style=flat-square&logo=nvidia&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-de4a2e?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
----
-
-### currently
-
-- SWE @ USC Liquid Propulsion Lab
-- Ongoing: [paged attention](https://github.com/emaanh/paged-attention) to be integrated into [llama.cpp](https://github.com/emaanh/llama.cpp)
-
-### next
-- Tesla (Summer 2026) - Energy (Go + Rust)
 
 ---
 

@@ -4,9 +4,6 @@
 
 ---
 
-I build high-throughput + low-latency systems software. <br>
-
----
 ### Top Languages & Tools
 ![C++](https://img.shields.io/badge/C++-0d6efd?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

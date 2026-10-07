@@ -1,18 +1,13 @@
-<h1 align="center">Emaan Heidari</h1>
-<h3 align="center">CE + CS @ USC</h3>
-<p align="center">SWE Intern @ Tesla</p>
+# Emaan Heidari
 
----
+CE + CS @ USC · SWE Intern @ Tesla
 
-### Top Languages & Tools
-![C++](https://img.shields.io/badge/C++-0d6efd?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-0d6efd?style=flat-square&logo=c)
-![Verilog](https://img.shields.io/badge/Verilog-b03060?style=flat-square)
-![CUDA](https://img.shields.io/badge/CUDA-76b900?style=flat-square&logo=nvidia&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-de4a2e?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DE4A2E?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-B03060?style=flat-square)
 
----
-
-eheidari@usc.edu · [linkedin.com/in/emaanheidari](https://linkedin.com/in/emaanheidari)
+[Email](mailto:eheidari@usc.edu) · [LinkedIn](https://linkedin.com/in/emaanheidari)

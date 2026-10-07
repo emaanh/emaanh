@@ -1,4 +1,4 @@
-# Emaan Heidari
+# hi
 
 CE + CS @ USC\
 SWE Intern @ Tesla
@@ -11,4 +11,4 @@ SWE Intern @ Tesla
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-B03060?style=flat-square)
 
-[Email](mailto:eheidari@usc.edu) | [LinkedIn](https://linkedin.com/in/emaanheidari)
+[Website](https://emaanheidari.com) | [Email](mailto:eheidari@usc.edu) | [LinkedIn](https://linkedin.com/in/emaanheidari)

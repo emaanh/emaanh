@@ -1,6 +1,7 @@
 # Emaan Heidari
 
-CE + CS @ USC · SWE Intern @ Tesla
+CE + CS @ USC\
+SWE Intern @ Tesla
 
 ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -10,4 +11,4 @@ CE + CS @ USC · SWE Intern @ Tesla
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-B03060?style=flat-square)
 
-[Email](mailto:eheidari@usc.edu) · [LinkedIn](https://linkedin.com/in/emaanheidari)
+[Email](mailto:eheidari@usc.edu) | [LinkedIn](https://linkedin.com/in/emaanheidari)

@@ -1,7 +1,7 @@
 # hi
 
 CE + CS @ USC\
-SWE Intern @ Tesla
+Prev SWE Intern @ Tesla
 
 ![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
